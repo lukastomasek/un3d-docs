@@ -10,4 +10,4 @@ UN3D engine API docs
 | Toggle Orthographic Camera | CameraOrtho | null |
 | Toggle Perspective Camera | CameraPerspective | null |
 | Update Wall Colour | WallColourUpdated | hexcode: number |
-| Instantiate GLB| InstantiateGlb | { productNode, event (ondragover)}|
+| Instantiate Product Model| InstantiateProductModel | { productNode, event (ondragover)}|
